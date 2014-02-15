@@ -19,7 +19,7 @@ public class BirdAdapterToDuck implements quackable{
     }
     public void quack()
     {
-        System.out.println("bird is now quacking");
+        System.out.println("bird is now quacking and quacking");
         b.chirp();
     }
 }
