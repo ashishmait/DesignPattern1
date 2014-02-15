@@ -14,7 +14,7 @@ public abstract class AbstractDuck {
     
     public void sayHello()
     {
-        System.out.println("helloooo 1");
+        System.out.println("helloooo");
     }
     public abstract void tellMeYourName();
     
